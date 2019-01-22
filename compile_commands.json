@@ -1,0 +1,212 @@
+[
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/third_party/siphash.cc.o -c /Users/Kirk/Developer/ccls/third_party/siphash.cc",
+  "file": "/Users/Kirk/Developer/ccls/third_party/siphash.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/clang_tu.cc.o -c /Users/Kirk/Developer/ccls/src/clang_tu.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/clang_tu.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/config.cc.o -c /Users/Kirk/Developer/ccls/src/config.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/config.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/filesystem.cc.o -c /Users/Kirk/Developer/ccls/src/filesystem.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/filesystem.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/fuzzy_match.cc.o -c /Users/Kirk/Developer/ccls/src/fuzzy_match.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/fuzzy_match.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/main.cc.o -c /Users/Kirk/Developer/ccls/src/main.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/main.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/include_complete.cc.o -c /Users/Kirk/Developer/ccls/src/include_complete.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/include_complete.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/indexer.cc.o -c /Users/Kirk/Developer/ccls/src/indexer.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/indexer.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/log.cc.o -c /Users/Kirk/Developer/ccls/src/log.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/log.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/lsp.cc.o -c /Users/Kirk/Developer/ccls/src/lsp.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/lsp.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/message_handler.cc.o -c /Users/Kirk/Developer/ccls/src/message_handler.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/message_handler.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/pipeline.cc.o -c /Users/Kirk/Developer/ccls/src/pipeline.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/pipeline.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/platform_posix.cc.o -c /Users/Kirk/Developer/ccls/src/platform_posix.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/platform_posix.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/platform_win.cc.o -c /Users/Kirk/Developer/ccls/src/platform_win.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/platform_win.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/position.cc.o -c /Users/Kirk/Developer/ccls/src/position.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/position.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/project.cc.o -c /Users/Kirk/Developer/ccls/src/project.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/project.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/query.cc.o -c /Users/Kirk/Developer/ccls/src/query.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/query.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/sema_manager.cc.o -c /Users/Kirk/Developer/ccls/src/sema_manager.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/sema_manager.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/serializer.cc.o -c /Users/Kirk/Developer/ccls/src/serializer.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/serializer.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/test.cc.o -c /Users/Kirk/Developer/ccls/src/test.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/test.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/utils.cc.o -c /Users/Kirk/Developer/ccls/src/utils.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/utils.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/working_files.cc.o -c /Users/Kirk/Developer/ccls/src/working_files.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/working_files.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/ccls_call.cc.o -c /Users/Kirk/Developer/ccls/src/messages/ccls_call.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/ccls_call.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/ccls_info.cc.o -c /Users/Kirk/Developer/ccls/src/messages/ccls_info.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/ccls_info.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/ccls_inheritance.cc.o -c /Users/Kirk/Developer/ccls/src/messages/ccls_inheritance.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/ccls_inheritance.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/ccls_member.cc.o -c /Users/Kirk/Developer/ccls/src/messages/ccls_member.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/ccls_member.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/ccls_navigate.cc.o -c /Users/Kirk/Developer/ccls/src/messages/ccls_navigate.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/ccls_navigate.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/ccls_reload.cc.o -c /Users/Kirk/Developer/ccls/src/messages/ccls_reload.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/ccls_reload.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/ccls_vars.cc.o -c /Users/Kirk/Developer/ccls/src/messages/ccls_vars.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/ccls_vars.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/initialize.cc.o -c /Users/Kirk/Developer/ccls/src/messages/initialize.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/initialize.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_code.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_code.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_code.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_completion.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_completion.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_completion.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_definition.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_definition.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_definition.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_did.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_did.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_did.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_foldingRange.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_foldingRange.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_foldingRange.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_formatting.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_formatting.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_formatting.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_document.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_document.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_document.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_hover.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_hover.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_hover.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_references.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_references.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_references.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_rename.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_rename.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_rename.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/textDocument_signatureHelp.cc.o -c /Users/Kirk/Developer/ccls/src/messages/textDocument_signatureHelp.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/textDocument_signatureHelp.cc"
+},
+{
+  "directory": "/Users/Kirk/Developer/ccls",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -DDEFAULT_RESOURCE_DIRECTORY=\"R\\\"(/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0)\\\"\" -I/Users/Kirk/Developer/ccls/src -isystem /Users/Kirk/Developer/ccls/third_party -isystem /Users/Kirk/Developer/ccls/third_party/rapidjson/include  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fno-rtti -Wall -Wno-sign-compare -std=c++1z -o CMakeFiles/ccls.dir/src/messages/workspace.cc.o -c /Users/Kirk/Developer/ccls/src/messages/workspace.cc",
+  "file": "/Users/Kirk/Developer/ccls/src/messages/workspace.cc"
+}
+]
